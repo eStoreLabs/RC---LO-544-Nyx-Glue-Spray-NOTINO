@@ -63,7 +63,7 @@
             "data": [
               {
                 "name": "header",
-                "value": "Ten duet klei! <br>Twój makeup się nie odklei<sup>2</sup>!",
+                "value": "Ten duet klei! <br>Twój makeup się nie odklei<sup style=\"font-size:13px\">2</sup>!",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
@@ -81,11 +81,11 @@
               },
               {
                 "name": "content",
-                "value": "<p><b>1. Nałóż bazę!</b><br>Utrwala makijaż<sup>3</sup> i nawilża skórę do 24h<sup>4</sup>.</p><br><p><b>2. Rozpyl spray!</b><br>Odporny na ścieranie. Utrwala makijaż do 24h<sup>1</sup><br> i daje uczucie nawilżenia przez cały dzień.</p><br><p><b style=\"text-transform: uppercase;\">Składniki:</b><br>Kwas poliglutaminowy<br>Syrop klonowy<br>Substancje filmotwórcze</p>",
+                "value": "<p><b>1. Nałóż bazę!</b><br>Utrwala makijaż<sup style=\"font-size:13px\">3</sup> i nawilża skórę do 24h<sup style=\"font-size:13px\">4</sup>.</p><br><p><b>2. Rozpyl spray!</b><br>Odporny na ścieranie. Utrwala makijaż do 24h<sup style=\"font-size:13px\">1</sup><br> i daje uczucie nawilżenia przez cały dzień.</p><br><p><b style=\"text-transform: uppercase;\">Składniki:</b><br>Kwas poliglutaminowy<br>Syrop klonowy<br>Substancje filmotwórcze</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "14px",
+                  "fontSize": "16px",
                   "fontWeight": "normal",
                   "color": "#000000",
                   "text-align": "left",
@@ -520,7 +520,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div style=\"text-align: center\"><p style=\"font-size:11px;margin-bottom: 3px\"><sup>1</sup> Test konsumencki, 107 osób.</p><p style=\"font-size:11px;margin-bottom: 3px\"><sup>2</sup> Baza pod makijaż i spray utrwalający makijaż. Bazę nałóż na oczyszczoną skórę twarzy przed wykonaniem makijażu. Po wykonaniu makijażu rozpyl spray utrwalający na twarz z odległości oko 15 cm.</p><p style=\"font-size:11px;margin-bottom: 3px\"><sup>3</sup> Test konsumencki 117 osób.</p><p style=\"font-size:11px;margin-bottom: 3px\"><sup>4</sup> Test instrumentalny.</p></div>",
+                "value": "<div style=\"text-align: center\"><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:13px\">1</sup> Test konsumencki, 107 osób.</p><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:13px\">2</sup> Baza pod makijaż i spray utrwalający makijaż. Bazę nałóż na oczyszczoną skórę twarzy przed wykonaniem makijażu. Po wykonaniu makijażu rozpyl spray utrwalający na twarz z odległości oko 15 cm.</p><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:13px\">3</sup> Test konsumencki 117 osób.</p><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:13px\">4</sup> Test instrumentalny.</p></div>",
                 "element": "DangerHtml",
                 "properties": {}
               }
