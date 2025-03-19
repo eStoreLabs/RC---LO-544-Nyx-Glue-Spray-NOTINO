@@ -18,7 +18,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "NYX Face Glue Spray",
                 "properties": []
@@ -40,7 +40,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "NYX Face Glue Spray",
                 "properties": []
@@ -95,7 +95,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-02.jpg",
+                "value": "MOD-02.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
@@ -173,7 +173,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-03-A.jpg",
+                "value": "MOD-03-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -202,7 +202,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-03-B.jpg",
+                "value": "MOD-03-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -231,7 +231,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-03-C.jpg",
+                "value": "MOD-03-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -260,7 +260,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./MOD-03-D.jpg",
+                "value": "MOD-03-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -282,21 +282,21 @@
             "data": [
               {
                 "name": "slides",
-                "value": "./Carousel-A-mobile.jpg",
+                "value": "Carousel-A-mobile.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
               },
               {
                 "name": "slides",
-                "value": "./Carousel-B-mobile.jpg",
+                "value": "Carousel-B-mobile.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
               },
               {
                 "name": "slides",
-                "value": "./Carousel-C-mobile.jpg",
+                "value": "Carousel-C-mobile.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -318,21 +318,21 @@
             "data": [
               {
                 "name": "slides",
-                "value": "./Carousel-A.jpg",
+                "value": "Carousel-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
               },
               {
                 "name": "slides",
-                "value": "./Carousel-B.jpg",
+                "value": "Carousel-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
               },
               {
                 "name": "slides",
-                "value": "./Carousel-C.jpg",
+                "value": "Carousel-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -428,7 +428,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-06-A.jpg",
+                "value": "MOD-06-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -457,7 +457,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-06-B.jpg",
+                "value": "MOD-06-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -486,7 +486,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-06-C.jpg",
+                "value": "MOD-06-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
